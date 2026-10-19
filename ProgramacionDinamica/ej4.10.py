@@ -20,18 +20,4 @@ def londres_california(l, c, m):
 
 ##esta parte de la restructuracion me cuesta una banda, por ahora necesito chat para entender como sacarlo
 
-    camino = []
-    i = n - 1
-    
-    while i >= 0:
-
-        camino.append(ciudad)
-        if ciudad == "Londres":
-            ciudad = anterior_londres[i]
-        else:
-            ciudad = anterior_california[i]
-
-        i -= 1
-    
-    camino.reverse()
     
