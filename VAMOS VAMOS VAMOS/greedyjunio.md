@@ -10,7 +10,7 @@ Por ejemplo, para la primera etapa hay tres caminos posibles:
 - Ezeiza → Azul: $39.
 Los costos de seguro tienen en cuenta los riesgos de las distintas rutas.
 
-Consigna: Realizar un algoritmo mediante programación dinámica que resuelva el problema calculando el menor costo de seguro. Indicar el orden de complejidad del algoritmo.
+Consigna: Realizar un algoritmo mediante programación dinámica que resuelva el problema calculando el menor costo de seguro. Indicar el orden de complejidad del algoritmo
 
 AHORA CON GREEDY
 
